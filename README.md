@@ -23,7 +23,7 @@
 ##
 
  <p>
-  <a href="https://github.com/jonathanpmoraes"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer&font=Fira%20Code&center=true&width=440&height=45&color=bluevCenter=true&size=22"  ></a>
+  <a href="https://github.com/jonathanpmoraes"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer%20At%20Nubank&font=Fira%20Code&center=true&width=440&height=45&color=bluevCenter=true&size=22"  ></a>
 </p>
 
 ##
