@@ -14,7 +14,7 @@
 
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonathanpmoraes&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonathanlbt1&theme=chartreuse_dark) |
-| :-: | :-: |
+| :-: | :-: 
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jonathanpmoraes&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jonathanlbt1&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jonathanpmoraes&theme=chartreuse_dark&utcOffset=8) |
 | :-: | :-: | :-: |
