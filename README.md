@@ -1,15 +1,12 @@
 <div align="center">
-   <a href="https://i.imgur.com/FnHj2ZQ.png"><img src="https://i.imgur.com/FnHj2ZQ.png" title="source: imgur.com" /></a>
+   <img src="https://github.com/jonathanlbt1/utilities/blob/main/github.png" alt="GitHub" width="800">
 </div>
 
 ##
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonathanpmoraes&show_icons=true&bg_color=00000000" height="145" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanlbt1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&bg_color=00000000&hide_border=false" height="145" alt="languages graph"/>   
-<!--    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanpmoraes&theme=tokyonight-duo" height="145" alt="jonathanpmoraes" /> -->
 
-</div>
+</div> My Stats!!!
+<p></p>
 
 
 
@@ -90,15 +87,10 @@
 </picture>
 
 
-##  GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=jonathanpmoraes&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-
-##
+##  Thanks for your visit! 
 
 <div align="center">
-  <a href="https://github.com/jonathanpmoraes/" target="_blank"><img src="https://profile-counter.glitch.me/jonathanpmoraes/count.svg?"  />
-</div>
+  <img src="https://komarev.com/ghpvc/?username=jonathanlbt1&color=green" alt="counter" />
+</div> 
 
 ## 
